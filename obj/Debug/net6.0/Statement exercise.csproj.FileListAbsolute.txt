@@ -1,0 +1,15 @@
+C:\Users\samia\OneDrive\Desktop\repo\Statement exercise\bin\Debug\net6.0\Statement exercise.exe
+C:\Users\samia\OneDrive\Desktop\repo\Statement exercise\bin\Debug\net6.0\Statement exercise.deps.json
+C:\Users\samia\OneDrive\Desktop\repo\Statement exercise\bin\Debug\net6.0\Statement exercise.runtimeconfig.json
+C:\Users\samia\OneDrive\Desktop\repo\Statement exercise\bin\Debug\net6.0\Statement exercise.dll
+C:\Users\samia\OneDrive\Desktop\repo\Statement exercise\bin\Debug\net6.0\Statement exercise.pdb
+C:\Users\samia\OneDrive\Desktop\repo\Statement exercise\obj\Debug\net6.0\Statement exercise.csproj.AssemblyReference.cache
+C:\Users\samia\OneDrive\Desktop\repo\Statement exercise\obj\Debug\net6.0\Statement exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samia\OneDrive\Desktop\repo\Statement exercise\obj\Debug\net6.0\Statement exercise.AssemblyInfoInputs.cache
+C:\Users\samia\OneDrive\Desktop\repo\Statement exercise\obj\Debug\net6.0\Statement exercise.AssemblyInfo.cs
+C:\Users\samia\OneDrive\Desktop\repo\Statement exercise\obj\Debug\net6.0\Statement exercise.csproj.CoreCompileInputs.cache
+C:\Users\samia\OneDrive\Desktop\repo\Statement exercise\obj\Debug\net6.0\Statement exercise.dll
+C:\Users\samia\OneDrive\Desktop\repo\Statement exercise\obj\Debug\net6.0\refint\Statement exercise.dll
+C:\Users\samia\OneDrive\Desktop\repo\Statement exercise\obj\Debug\net6.0\Statement exercise.pdb
+C:\Users\samia\OneDrive\Desktop\repo\Statement exercise\obj\Debug\net6.0\Statement exercise.genruntimeconfig.cache
+C:\Users\samia\OneDrive\Desktop\repo\Statement exercise\obj\Debug\net6.0\ref\Statement exercise.dll
