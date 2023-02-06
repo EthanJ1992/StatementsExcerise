@@ -1,4 +1,25 @@
-﻿
+﻿/////// Exercise one/////////////
+//Console.WriteLine("Guess My FavNumber");
+
+//var r = new Random();
+//var favNumber = r.Next(1, 1000);
+//int userInput = int.Parse(Console.ReadLine());
+
+//    if (userInput < favNumber)
+//    {
+//        Console.WriteLine("Nope guess to low");
+//    }
+//    else if (userInput > favNumber)
+//    {
+//        Console.WriteLine("Once again guess to high");
+//    }
+//    else
+//    {
+//        Console.WriteLine("About time that's correct");
+//    }
+
+
+
 
 
 
